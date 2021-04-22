@@ -1,3 +1,6 @@
+##Duanes Page
+[https://<duanetharp.github.io/smart-on-fhir-demo/core/status.html] Link to app
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/duanetharp/smart-on-fhir-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
